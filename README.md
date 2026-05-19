@@ -93,7 +93,7 @@
 | `/insights` | 分析 Claude Code 使用历史，生成 HTML 交互式统计报告 |
 | `/powerup` | 内置互动教程，带你发现不常用但实用的隐藏功能 |
 
-### agents -- 子 Agent 管理
+### 子 Agent 管理
 
 Claude Code 在执行复杂任务时，会自动派生子 Agent 去并行处理子任务。每个子 Agent 拥有独立上下文窗口，不会把探索过程产生的海量内容塞进主对话。
 
