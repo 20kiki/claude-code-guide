@@ -504,3 +504,9 @@ claude update                 # 升级到最新版本
 - [Claude Code 官方文档](https://code.claude.com/docs)
 - [Claude Code 高级技巧](https://support.claude.com/en/articles/14554000-claude-code-power-user-tips)
 - [Claude Code 会话管理](https://claude.com/blog/using-claude-code-session-management-and-1m-context)
+
+---
+
+## 👤 作者
+
+[@20kiki](https://github.com/20kiki)
