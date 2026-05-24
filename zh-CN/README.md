@@ -1,12 +1,13 @@
-**Language:** [English](../README.md) | [简体中文](README.md)
-
 <div align="center">
+
   <h1>Claude Code 常用操作指南</h1>
   <p>命令速查、快捷键大全、配置技巧 — 日常使用一站式参考</p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
   [![Platform](https://img.shields.io/badge/Platform-Claude%20Code-blue)](https://code.claude.com)
   [![Stars](https://img.shields.io/github/stars/20kiki/claude-code-guide)](https://github.com/20kiki/claude-code-guide)
+
+  <p><strong>Language:</strong> <a href="../README.md">English</a> | <a href="README.md">简体中文</a></p>
 </div>
 
 ---
