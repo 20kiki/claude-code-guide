@@ -204,8 +204,7 @@ These consume token space and get read by the model on every subsequent turn, de
 
 | Shortcut | Action |
 |----------|--------|
-| `Ctrl + C` | Completely cancel current output, discard results. Use when the AI is totally off track |
-| `Esc` | Interrupt current output, keep what's already generated. Use when direction is fine but needs tweaking |
+| `Ctrl + C` / `Esc` | Interrupt current response or tool call mid-turn, keeping work done so far. Double-tap `Ctrl+C Ctrl+C` to force quit Claude Code, double-tap `Esc Esc` to open the rewind/checkpoint menu |
 | `Shift + Tab` | Cycle through permission modes (default → acceptEdits → plan → auto), see details below |
 | `Alt + T` | Toggle extended thinking on/off |
 | `Alt + P` | Open model picker |
@@ -216,7 +215,6 @@ These consume token space and get read by the model on every subsequent turn, de
 | Shortcut | Action |
 |----------|--------|
 | `\ + Enter` | Insert a newline without sending |
-| `Esc Esc` | Double-tap to clear the input box |
 | `Ctrl + S` | Stash current input and clear. Auto-restores after sending the next message. Useful for inserting a quick question mid-typing |
 | `Ctrl + A` | Jump to beginning of line |
 | `Ctrl + E` | Jump to end of line |
